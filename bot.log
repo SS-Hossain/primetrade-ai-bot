@@ -1,0 +1,145 @@
+2025-06-23 21:06:10,083 - Initialized Binance client.
+2025-06-23 21:06:10,467 - \u274c Error placing order: APIError(code=-2014): API-key format invalid.
+2025-06-23 21:11:13,525 - Initialized Binance client.
+2025-06-23 21:11:13,889 - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:17:00,551 - Initialized Binance client.
+2025-06-23 21:17:00,898 - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:21:54,556 - INFO - \u2705 Binance Testnet client initialized and time synced.
+2025-06-23 21:21:55,161 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:23:38,716 - ERROR - \u274c Time sync failed: 'Client' object has no attribute '_get_timestamp_offset'
+2025-06-23 21:23:39,262 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:24:05,556 - ERROR - \u274c Time sync failed: 'Client' object has no attribute '_get_timestamp_offset'
+2025-06-23 21:24:06,000 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:26:22,063 - ERROR - \u274c Time sync failed: 'Client' object has no attribute '_get_timestamp_offset'
+2025-06-23 21:26:22,576 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:34:01,879 - INFO - \u2705 Binance Testnet client initialized and time synced.
+2025-06-23 21:34:01,882 - ERROR - \u274c Error placing order: 'Session' object has no attribute 'POST'
+2025-06-23 21:35:57,901 - INFO - \u2705 Binance Testnet client initialized and time synced.
+2025-06-23 21:35:58,087 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:37:08,000 - INFO - \u2705 Binance Testnet client initialized and time synced.
+2025-06-23 21:37:08,207 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-23 21:39:40,408 - INFO - \u2705 Binance Testnet client initialized with time sync.
+2025-06-23 21:39:40,740 - ERROR - \u274c Error placing order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-06-24 10:53:55,103 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 10:53:55,873 - INFO - \u2705 Order placed: {'orderId': 4671309861, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'eLiILYs0V7YUXfSlCmcvsq', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750742689701}
+2025-06-24 11:08:20,098 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:08:20,814 - INFO - \u2705 Order placed: {'orderId': 4671911508, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ljAqJyyG1Mus8AKdaxEjGL', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750743554658}
+2025-06-24 11:09:30,056 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:09:30,781 - INFO - \u2705 Order placed: {'orderId': 4671960814, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'TIXugoTrX1DwrDXRGfwlkQ', 'price': '106000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750743624627}
+2025-06-24 11:15:10,875 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:16:09,864 - ERROR - \u274c API Error: {"code":-2014,"msg":"API-key format invalid."}
+2025-06-24 11:16:15,555 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:17:02,405 - ERROR - \u274c API Error: {"code":-2014,"msg":"API-key format invalid."}
+2025-06-24 11:18:23,716 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:18:52,509 - INFO - \u2705 Order placed: {'orderId': 4672352912, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '8YE4YQTdUXDI8VPfhKWlCn', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '102000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750744186372}
+2025-06-24 11:19:17,954 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:20:35,673 - INFO - \u2705 Order placed: {'orderId': 4672409808, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'nLDszS9WFdeA82UWAeDi98', 'price': '102000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '101800.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750744289540}
+2025-06-24 11:21:29,502 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:22:41,953 - INFO - \u2705 Order placed: {'orderId': 4672501325, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '7v9djg3K9hZU10SplD1Ymt', 'price': '107000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '107200.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750744415818}
+2025-06-24 11:22:59,223 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:23:13,705 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:23:50,678 - INFO - \u2705 Order placed: {'orderId': 4672546877, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '8w505R4dWIbNxq1xiFtPjE', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '107000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750744484555}
+2025-06-24 11:33:50,851 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:34:08,976 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:34:10,291 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:34:10,698 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:34:11,612 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:34:16,862 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:16,067 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:16,603 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:19,613 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:19,729 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:20,765 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:23,094 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 11:35:28,597 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:06,583 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:09,898 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:10,464 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:11,008 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:11,408 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:12,023 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:15,387 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:17,511 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:17,951 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:18,142 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:18,335 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:18,505 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:29,193 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:29,301 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:30,000 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:30,303 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:30,550 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:31,636 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:31,879 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:32,079 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:32,402 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:32,583 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:32,750 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:33,327 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:33,522 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:33,721 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:33,919 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,111 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,280 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,455 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,631 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,799 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:34,974 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:35,158 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:35,338 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:35,543 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:35,726 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:35,905 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:36,110 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:36,272 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:36,471 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:36,654 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:36,830 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,014 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,191 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,383 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,567 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,752 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:37,943 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:38,702 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:39,327 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:43,232 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:38:45,913 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:46,190 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:49,373 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:50,144 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:50,703 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:51,192 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:51,575 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:51,871 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:53,028 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:53,232 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:53,479 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:53,863 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:54,271 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:54,712 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:40:59,194 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:42:00,408 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:42:01,132 - INFO - \u2705 Order placed: {'orderId': 4675910915, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Ul2QJPt4l9V2xaNPjMwrGZ', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750749175285}
+2025-06-24 12:47:07,902 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:28,144 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:29,385 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:45,597 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:49,858 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:49,858 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:47:50,463 - INFO - \u2705 Order placed: {'orderId': 4676170972, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'wulGmodsnIItSfbN0h7b0I', 'price': '106000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750749524635}
+2025-06-24 12:48:21,679 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:48:35,627 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:48:35,739 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:48:35,739 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:48:36,338 - INFO - \u2705 Order placed: {'orderId': 4676205178, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'jTm1eB31LeAWuNbMwgaKXF', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '101000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750749570510}
+2025-06-24 12:48:51,233 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:48:56,775 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:49:08,621 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:49:18,394 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:49:18,498 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:49:18,498 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:49:19,198 - INFO - \u2705 Order placed: {'orderId': 4676235120, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'j3IiftMPCVNEqwSZUw8r4i', 'price': '108000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '107800.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750749613382}
+2025-06-24 12:53:54,824 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:53:58,761 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
+2025-06-24 12:54:37,134 - INFO - \u2705 Direct REST mode: Binance Testnet client initialized.
