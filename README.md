@@ -18,14 +18,18 @@ A simplified Python-based crypto trading bot that lets you place Binance Futures
 ---
 
 ## 🧰 Project Structure
+```
+primetrade-ai-bot/
+├── app.py             # Streamlit UI interface
+├── run_bot.py         # CLI interface to place orders
+├── requirements.txt   # Python dependencies
+├── bot.log            # Log of API interactions and errors
+├── trading_bot/       # Core bot logic package
+│   ├── __init__.py
+│   └── bot.py
+└── .env               # Environment file for API credentials (not included in repo)
 
-├── app.py # Streamlit UI
-├── run_bot.py # CLI interface
-├── trading_bot/ # Bot logic
-│ └── bot.py
-├── requirements.txt # Python dependencies
-├── bot.log # Log of API interactions
-
+```
 
 
 ---
